@@ -1,0 +1,1011 @@
+Fecha Venta,Local , Producto ,Cantidad ,Precio Unitario , Total Venta 
+2024-01-05,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-02-03,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-02-21,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-07,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-02-04,Farmacia Norte,Loratadina,4.0,4.0,16.0
+2024-01-05,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-01-28,Farmacia Centro,Salbutamol,5.0,8.0,40.0
+2024-01-07,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-01-16,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-18,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-01-01,Farmacia Norte,Ibuprofeno,2.0,3.0,6.0
+2024-01-17,Farmacia Centro,Salbutamol,3.0,8.0,24.0
+2024-02-21,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-01-11,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-01-19,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-24,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-26,Farmacia Sur,Amoxicilina,4.0,7.0,28.0
+2024-02-01,Farmacia Sur,Ibuprofeno,1.0,3.0,3.0
+2024-01-25,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-01-24,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-01-08,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-02-04,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-01-30,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-01-14,Farmacia Centro,Amoxicilina,5.0,7.0,35.0
+2024-02-20,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-01-05,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-01-16,Farmacia Norte,Amoxicilina,1.0,7.0,7.0
+2024-02-03,Farmacia Norte,Paracetamol,4.0,2.5,10.0
+2024-02-24,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-02-21,Farmacia Sur,Amoxicilina,4.0,7.0,28.0
+2024-01-23,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-01-13,Farmacia Norte,,5.0,5.0,25.0
+2024-02-16,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-02-22,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-02-11,Farmacia Centro,Amoxicilina,5.0,7.0,35.0
+2024-02-28,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-02-17,Farmacia Centro,Salbutamol,3.0,8.0,24.0
+2024-01-01,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-02-18,Farmacia Sur,Omeprazol,5.0,5.0,25.0
+2024-01-21,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-02-18,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-23,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-14,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-02-19,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-12,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-01-03,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-04,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-20,Farmacia Centro,Amoxicilina,2.0,7.0,14.0
+2024-01-26,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-02-15,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-16,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-01-17,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-02,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-02-25,Farmacia Norte,Ibuprofeno,5.0,3.0,15.0
+2024-02-23,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-04,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-02-25,Farmacia Norte,Ibuprofeno,4.0,3.0,12.0
+2024-02-24,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-02-23,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-02-16,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-02-19,Farmacia Sur,Aspirina,5.0,2.0,
+2024-01-27,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-01-15,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-13,Farmacia Sur,Loratadina,5.0,4.0,20.0
+2024-02-06,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-01-25,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-02-17,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-02-26,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-02-25,Farmacia Centro,Vitamina C,5.0,1.5,7.5
+2024-02-06,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-02-23,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-03-01,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-01-24,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-02-05,Farmacia Centro,Omeprazol,,5.0,20.0
+2024-01-11,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-01-03,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-31,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-23,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-02-21,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-26,Farmacia Norte,Paracetamol,5.0,2.5,12.5
+2024-01-01,Farmacia Sur,,1.0,8.0,8.0
+2024-02-08,Farmacia Centro,Aspirina,4.0,2.0,8.0
+2024-01-13,Farmacia Centro,Amoxicilina,2.0,7.0,14.0
+2024-02-01,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-02-09,Farmacia Sur,Paracetamol,3.0,2.5,7.5
+2024-02-29,Farmacia Norte,Ibuprofeno,4.0,3.0,12.0
+2024-01-22,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-01-26,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-25,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-03-01,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-01-07,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-01-06,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-24,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-01-20,Farmacia Sur,Omeprazol,5.0,5.0,25.0
+2024-01-18,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-01-06,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-02-28,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-02-05,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-02-09,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-01-31,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-01-23,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-02-03,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-02-11,Farmacia Sur,Aspirina,5.0,2.0,10.0
+2024-01-18,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-03,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-02-21,Farmacia Sur,Aspirina,2.0,2.0,4.0
+2024-01-11,Farmacia Norte,Ibuprofeno,9999.0,3.0,9.0
+2024-01-08,Farmacia Norte,Salbutamol,1.0,8.0,8.0
+2024-02-23,Farmacia Centro,Paracetamol,1.0,2.5,2.5
+2024-02-25,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-01-28,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-02-15,Farmacia Sur,Ibuprofeno,2.0,3.0,6.0
+2024-02-09,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-02-14,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-14,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-01-12,Farmacia Centro,Paracetamol,4.0,2.5,10.0
+2024-02-28,Farmacia Norte,Paracetamol,4.0,2.5,10.0
+2024-01-29,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-01-08,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-02-02,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-02-12,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-19,Farmacia Sur,Ibuprofeno,4.0,3.0,12.0
+2024-01-07,Farmacia Sur,Aspirina,5.0,2.0,10.0
+2024-01-31,Farmacia Sur,Ibuprofeno,4.0,3.0,12.0
+2024-01-24,Farmacia Sur,Loratadina,2.0,4.0,8.0
+2024-01-07,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-02-19,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-02-16,Farmacia Sur,Loratadina,3.0,4.0,
+2024-01-03,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-14,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-01-11,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-01-26,Farmacia Sur,Loratadina,5.0,4.0,20.0
+2024-01-21,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-01-09,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-02-25,Farmacia Centro,Loratadina,2.0,4.0,8.0
+2024-02-04,Farmacia Sur,Loratadina,3.0,4.0,12.0
+2024-01-30,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-02-28,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-01-29,Farmacia Sur,Loratadina,2.0,4.0,8.0
+2024-01-09,Farmacia Centro,Salbutamol,4.0,8.0,32.0
+2024-02-23,Farmacia Sur,Paracetamol,3.0,2.5,7.5
+2024-01-24,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-03-01,Farmacia Centro,Vitamina C,1.0,1.5,1.5
+2024-02-25,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-02-01,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-08,Farmacia Sur,Omeprazol,5.0,5.0,25.0
+2024-02-23,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-02-14,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-02-28,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-02-15,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-02,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-01-10,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-15,Farmacia Sur,Loratadina,5.0,4.0,20.0
+2024-02-21,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-01-17,Farmacia Centro,Ibuprofeno,2.0,3.0,6.0
+2024-01-09,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-02-15,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-02-18,Farmacia Centro,,4.0,5.0,20.0
+2024-01-16,Farmacia Centro,Salbutamol,5.0,8.0,40.0
+2024-01-05,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-01-21,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-01-12,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-01-07,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-28,Farmacia Norte,Vitamina C,4.0,1.5,6.0
+2024-01-20,Farmacia Sur,Amoxicilina,4.0,7.0,28.0
+2024-02-19,Farmacia Norte,Ibuprofeno,4.0,3.0,12.0
+2024-01-04,Farmacia Sur,Ibuprofeno,1.0,3.0,3.0
+2024-01-05,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-02-26,Farmacia Norte,Aspirina,4.0,2.0,8.0
+2024-02-25,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-02-09,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-02-07,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-01-19,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-02-15,Farmacia Centro,Loratadina,9999.0,4.0,
+2024-02-09,Farmacia Centro,Ibuprofeno,,3.0,15.0
+2024-02-08,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-10,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-05,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-01-15,Farmacia Centro,Vitamina C,1.0,1.5,1.5
+2024-01-16,Farmacia Sur,Salbutamol,3.0,8.0,24.0
+2024-02-19,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-01-16,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-01-09,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-01-17,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-02-22,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-02-18,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-02-01,Farmacia Sur,,2.0,3.0,6.0
+2024-01-03,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-01-06,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-02-11,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-02-23,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-01-06,Farmacia Norte,Loratadina,9999.0,4.0,12.0
+2024-02-02,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-16,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-01,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-02-25,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-06,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-01-03,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-02-11,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-02-03,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-01-01,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-03,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-02-19,Farmacia Sur,Paracetamol,3.0,2.5,7.5
+2024-01-31,Farmacia Norte,Omeprazol,2.0,5.0,10.0
+2024-01-05,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-22,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+Invalid_Date,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+Invalid_Date,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-02-01,Farmacia Norte,Salbutamol,3.0,8.0,24.0
+2024-01-15,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-01-28,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-07,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-01-28,Farmacia Centro,Loratadina,5.0,4.0,20.0
+2024-01-28,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-01-31,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-01-01,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-01-20,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-02-21,Farmacia Sur,Paracetamol,3.0,2.5,7.5
+Invalid_Date,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-02-12,Farmacia Sur,Loratadina,2.0,4.0,8.0
+2024-01-15,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-01-06,Farmacia Sur,Omeprazol,5.0,5.0,25.0
+2024-01-25,Farmacia Centro,Aspirina,1.0,2.0,2.0
+2024-02-22,Farmacia Centro,,3.0,4.0,12.0
+2024-01-04,Farmacia Norte,,3.0,2.0,6.0
+2024-02-11,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-01-13,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-02-07,Farmacia Norte,Omeprazol,2.0,5.0,10.0
+2024-02-27,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-02-25,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-02-08,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-27,Farmacia Centro,Salbutamol,2.0,8.0,
+2024-02-10,Farmacia Centro,Paracetamol,1.0,2.5,2.5
+2024-02-25,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-01-20,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-22,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-02-15,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-01-30,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-02-05,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-01-10,Farmacia Centro,Amoxicilina,1.0,7.0,7.0
+2024-01-01,Farmacia Norte,Vitamina C,1.0,1.5,1.5
+2024-01-30,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-29,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-01-06,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-02-25,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-02-24,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-01-26,Farmacia Centro,Paracetamol,,2.5,2.5
+2024-01-21,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-02-18,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-01-23,Farmacia Sur,Aspirina,5.0,2.0,10.0
+2024-01-13,Farmacia Norte,Ibuprofeno,5.0,3.0,15.0
+2024-01-28,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-11,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-02-13,Farmacia Norte,Aspirina,4.0,2.0,8.0
+2024-01-01,Farmacia Norte,Ibuprofeno,2.0,3.0,6.0
+2024-01-24,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-01-21,Farmacia Centro,Aspirina,3.0,2.0,6.0
+2024-01-15,Farmacia Centro,Salbutamol,4.0,8.0,32.0
+2024-02-26,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-21,Farmacia Sur,Vitamina C,4.0,1.5,6.0
+2024-01-21,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-02-21,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-01-28,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-06,Farmacia Sur,Ibuprofeno,2.0,3.0,6.0
+2024-03-01,Farmacia Norte,Paracetamol,3.0,2.5,7.5
+2024-01-16,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-01-07,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-02-04,Farmacia Norte,Omeprazol,2.0,5.0,10.0
+2024-02-01,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-17,Farmacia Centro,,5.0,2.0,10.0
+2024-01-17,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-02-21,Farmacia Centro,Amoxicilina,2.0,7.0,14.0
+2024-01-26,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-07,Farmacia Centro,,2.0,3.0,6.0
+2024-02-13,Farmacia Centro,Loratadina,1.0,4.0,4.0
+2024-01-12,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-02-28,Farmacia Sur,,5.0,8.0,40.0
+2024-02-05,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-01-02,Farmacia Centro,Omeprazol,5.0,5.0,25.0
+2024-01-20,Farmacia Centro,Loratadina,5.0,4.0,20.0
+2024-02-28,Farmacia Sur,Paracetamol,,2.5,5.0
+2024-02-01,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-01-15,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-01-15,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-02-13,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-02-09,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-02-07,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-26,Farmacia Centro,Loratadina,1.0,4.0,4.0
+2024-02-12,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-01-04,Farmacia Sur,Vitamina C,4.0,1.5,6.0
+2024-02-10,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-01-30,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-02-14,Farmacia Norte,Ibuprofeno,4.0,3.0,12.0
+2024-01-23,Farmacia Norte,Paracetamol,3.0,2.5,7.5
+2024-02-01,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-02-15,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-01-03,Farmacia Norte,Paracetamol,5.0,2.5,12.5
+2024-02-14,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-02-14,Farmacia Sur,Aspirina,5.0,2.0,10.0
+2024-01-15,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-01-07,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-02-23,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-02-29,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-02-02,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-02-13,Farmacia Sur,Vitamina C,2.0,1.5,3.0
+2024-02-11,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-01-26,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-02-29,Farmacia Centro,Omeprazol,2.0,5.0,10.0
+2024-01-10,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-02-13,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-01-27,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-02-11,Farmacia Centro,Salbutamol,3.0,8.0,24.0
+2024-02-11,Farmacia Sur,Loratadina,3.0,4.0,12.0
+2024-01-27,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-01-05,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-02-19,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-02-14,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-01-19,Farmacia Sur,Amoxicilina,5.0,7.0,35.0
+2024-02-08,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-27,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-02-18,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-01-30,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-01-16,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-02-02,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-01-06,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-04,Farmacia Norte,Paracetamol,5.0,2.5,12.5
+2024-01-28,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-03,Farmacia Norte,Ibuprofeno,5.0,3.0,15.0
+Invalid_Date,Farmacia Norte,Amoxicilina,1.0,7.0,7.0
+2024-02-10,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-02-19,Farmacia Centro,Ibuprofeno,5.0,3.0,15.0
+2024-02-04,Farmacia Centro,Paracetamol,4.0,2.5,10.0
+2024-01-27,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-02-19,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-01-15,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-03,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-24,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-02-05,Farmacia Centro,Ibuprofeno,5.0,3.0,15.0
+2024-01-22,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-01-05,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-02-17,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-31,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-13,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-02-17,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-01-02,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-02-29,Farmacia Sur,Salbutamol,4.0,8.0,32.0
+2024-01-04,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-01-15,Farmacia Centro,Salbutamol,3.0,8.0,24.0
+2024-02-15,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-02-15,Farmacia Sur,Vitamina C,4.0,1.5,6.0
+2024-02-19,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-01-10,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-01-24,Farmacia Centro,Paracetamol,4.0,2.5,10.0
+2024-01-02,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-01-22,Farmacia Sur,Ibuprofeno,4.0,3.0,12.0
+2024-01-20,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-02-13,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-02-04,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-02-16,Farmacia Sur,Ibuprofeno,2.0,3.0,6.0
+2024-02-16,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-02-15,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-02-03,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-02-19,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-28,Farmacia Sur,Vitamina C,2.0,1.5,3.0
+2024-01-27,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-03-01,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-02-19,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-02-28,Farmacia Sur,Paracetamol,3.0,2.5,7.5
+2024-01-24,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-17,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-02-06,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-01-16,Farmacia Sur,Vitamina C,2.0,1.5,3.0
+2024-01-03,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-05,Farmacia Sur,,5.0,2.5,12.5
+2024-01-05,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-01-11,Farmacia Norte,Ibuprofeno,3.0,3.0,
+2024-01-14,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-27,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-20,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+Invalid_Date,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-31,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-01-16,Farmacia Norte,Salbutamol,1.0,8.0,8.0
+2024-01-18,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-01-07,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-03,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-02-15,Farmacia Norte,Vitamina C,1.0,1.5,1.5
+2024-02-15,Farmacia Centro,Vitamina C,1.0,1.5,1.5
+2024-01-25,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-19,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-02-09,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-01-06,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-02-06,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-21,Farmacia Centro,Vitamina C,1.0,1.5,1.5
+2024-01-16,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-02-17,Farmacia Centro,Aspirina,3.0,2.0,6.0
+2024-02-29,Farmacia Centro,Salbutamol,3.0,8.0,24.0
+2024-01-18,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-02-10,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-01-27,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-16,Farmacia Centro,Omeprazol,3.0,5.0,15.0
+2024-01-10,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-02-10,Farmacia Norte,Aspirina,5.0,2.0,
+2024-01-29,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-01-04,Farmacia Sur,Loratadina,2.0,4.0,8.0
+2024-01-16,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-01-28,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-02-14,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-01-25,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-01-22,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-02-12,Farmacia Centro,Amoxicilina,1.0,7.0,7.0
+2024-01-13,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-02-19,Farmacia Norte,Aspirina,1.0,2.0,2.0
+2024-01-11,Farmacia Centro,Aspirina,1.0,2.0,2.0
+2024-02-22,Farmacia Norte,Ibuprofeno,5.0,3.0,15.0
+2024-01-16,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-02-06,Farmacia Norte,Paracetamol,3.0,2.5,7.5
+2024-01-23,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-01-23,Farmacia Centro,Paracetamol,1.0,2.5,2.5
+2024-01-30,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-01-29,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-02-07,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-27,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-02-01,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-03-01,Farmacia Norte,Salbutamol,3.0,8.0,24.0
+2024-01-03,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-01-05,Farmacia Norte,Vitamina C,1.0,1.5,1.5
+2024-01-12,Farmacia Norte,Omeprazol,4.0,5.0,20.0
+2024-03-01,Farmacia Norte,Amoxicilina,1.0,7.0,7.0
+2024-02-16,Farmacia Norte,Ibuprofeno,2.0,3.0,6.0
+2024-02-17,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-02-13,Farmacia Centro,Omeprazol,5.0,5.0,25.0
+2024-01-12,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-01-09,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-02-14,Farmacia Sur,Salbutamol,5.0,8.0,40.0
+2024-01-19,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-02-05,Farmacia Norte,Aspirina,4.0,2.0,8.0
+2024-02-23,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-02-14,Farmacia Sur,Omeprazol,2.0,5.0,10.0
+2024-02-07,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-01-29,Farmacia Sur,Loratadina,3.0,4.0,12.0
+2024-01-01,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+Invalid_Date,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-02-15,Farmacia Sur,Loratadina,3.0,4.0,12.0
+2024-01-08,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-07,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-02,Farmacia Sur,Omeprazol,5.0,5.0,25.0
+2024-01-31,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-02-02,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-02-11,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-02-14,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-01-25,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-02-17,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-01-29,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-01-14,Farmacia Centro,Omeprazol,5.0,5.0,25.0
+2024-01-12,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-02-29,Farmacia Centro,Aspirina,1.0,2.0,2.0
+2024-02-04,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-02-28,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-02-21,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-01-29,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-02-24,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-02-11,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-02-18,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-02-01,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-01-27,Farmacia Centro,Vitamina C,1.0,1.5,1.5
+2024-01-22,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-02-22,Farmacia Centro,Salbutamol,4.0,8.0,32.0
+2024-02-06,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-01-19,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-03,Farmacia Centro,Ibuprofeno,2.0,3.0,6.0
+2024-02-04,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-01-11,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-01-17,Farmacia Norte,Vitamina C,3.0,1.5,4.5
+2024-01-23,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-03-01,Farmacia Sur,Amoxicilina,4.0,7.0,28.0
+2024-01-22,Farmacia Centro,Salbutamol,4.0,8.0,32.0
+2024-02-07,Farmacia Norte,Vitamina C,4.0,1.5,6.0
+2024-02-29,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-02-29,Farmacia Centro,,2.0,4.0,8.0
+2024-02-15,Farmacia Sur,Ibuprofeno,4.0,3.0,12.0
+2024-02-05,Farmacia Sur,Vitamina C,4.0,1.5,6.0
+2024-02-09,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-14,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-02-29,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-01-16,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-02-11,Farmacia Centro,,1.0,4.0,4.0
+2024-02-17,Farmacia Centro,Vitamina C,5.0,1.5,7.5
+2024-01-08,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-02-16,Farmacia Norte,Aspirina,4.0,2.0,8.0
+2024-02-22,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-02-17,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-01-02,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-01-09,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-02-26,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-02-05,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-01-25,Farmacia Sur,Paracetamol,3.0,2.5,
+2024-02-20,Farmacia Norte,Aspirina,4.0,2.0,8.0
+2024-02-27,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-01-20,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-02-20,Farmacia Sur,Amoxicilina,9999.0,7.0,7.0
+2024-01-12,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-01-10,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-22,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-01-25,Farmacia Centro,Salbutamol,3.0,8.0,24.0
+2024-02-22,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-01-19,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-01-06,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-01-12,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-01-15,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-02-12,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-02-09,Farmacia Sur,Loratadina,4.0,4.0,16.0
+2024-01-19,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-18,Farmacia Norte,Ibuprofeno,3.0,3.0,9.0
+2024-01-23,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-02-23,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-02-23,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-02-06,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-01-26,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-31,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-01-10,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-02-07,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-01-07,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-01-26,Farmacia Centro,Aspirina,1.0,2.0,2.0
+2024-02-06,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-02-08,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-01-15,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-01-06,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-01,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-05,Farmacia Sur,Salbutamol,5.0,8.0,40.0
+2024-02-19,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-03-01,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-02-02,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-02-20,Farmacia Norte,Salbutamol,3.0,8.0,24.0
+2024-01-16,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-25,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-02-24,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-01-02,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-02-11,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-02-28,Farmacia Norte,Omeprazol,2.0,5.0,10.0
+2024-02-24,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-01-04,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-10,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-02-04,Farmacia Norte,Vitamina C,4.0,1.5,6.0
+2024-02-17,Farmacia Norte,Paracetamol,4.0,2.5,10.0
+2024-02-04,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-02-07,Farmacia Norte,Amoxicilina,1.0,7.0,7.0
+2024-02-27,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-30,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-25,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-01-03,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-02-12,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-09,Farmacia Sur,,2.0,7.0,14.0
+2024-02-01,Farmacia Norte,Loratadina,4.0,4.0,16.0
+2024-01-17,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-02-06,Farmacia Norte,Amoxicilina,1.0,7.0,7.0
+2024-02-19,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-18,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-01-27,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-01-06,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-27,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-01-30,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-02-04,Farmacia Sur,Loratadina,4.0,4.0,16.0
+2024-01-30,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-02-11,Farmacia Norte,Paracetamol,,2.5,10.0
+2024-02-26,Farmacia Centro,,1.0,7.0,7.0
+2024-01-25,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-01-31,Farmacia Centro,Ibuprofeno,5.0,3.0,15.0
+2024-02-14,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-02-07,Farmacia Centro,Loratadina,1.0,4.0,4.0
+2024-02-10,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-19,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-01-18,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-01-10,Farmacia Centro,Aspirina,,2.0,6.0
+2024-01-23,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-02-27,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-01-01,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-01-28,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-01-22,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-01-15,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-02-05,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-01-22,Farmacia Norte,Aspirina,1.0,2.0,2.0
+2024-02-20,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-02-17,Farmacia Norte,Amoxicilina,3.0,7.0,21.0
+2024-01-17,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-01-21,Farmacia Centro,Omeprazol,5.0,5.0,25.0
+2024-02-08,Farmacia Sur,Loratadina,5.0,4.0,20.0
+2024-02-01,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-02-02,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-02-02,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-02-15,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-01-10,Farmacia Norte,Vitamina C,1.0,1.5,1.5
+2024-02-07,Farmacia Sur,Salbutamol,3.0,8.0,24.0
+2024-03-01,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-30,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-04,Farmacia Sur,Ibuprofeno,4.0,3.0,12.0
+2024-01-27,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-02-26,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-03-01,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-17,Farmacia Norte,Ibuprofeno,5.0,3.0,15.0
+2024-02-02,Farmacia Centro,Omeprazol,3.0,5.0,15.0
+2024-02-21,Farmacia Sur,Salbutamol,4.0,8.0,32.0
+2024-01-11,Farmacia Sur,Loratadina,2.0,4.0,8.0
+2024-02-27,Farmacia Norte,Loratadina,4.0,4.0,16.0
+2024-01-24,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-01-29,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-02-17,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-10,Farmacia Sur,Loratadina,5.0,4.0,20.0
+2024-01-17,Farmacia Centro,Aspirina,4.0,2.0,8.0
+2024-01-23,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-02-08,Farmacia Centro,Aspirina,4.0,2.0,8.0
+2024-02-29,Farmacia Sur,Ibuprofeno,1.0,3.0,3.0
+2024-02-20,Farmacia Sur,Paracetamol,3.0,2.5,7.5
+2024-02-18,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-01-19,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-02-08,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-02-15,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-01-01,Farmacia Sur,Aspirina,5.0,2.0,10.0
+2024-01-26,Farmacia Sur,Ibuprofeno,2.0,3.0,6.0
+2024-01-14,Farmacia Centro,Omeprazol,2.0,5.0,10.0
+2024-01-14,Farmacia Centro,Amoxicilina,2.0,7.0,14.0
+2024-01-24,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-02-02,Farmacia Norte,Salbutamol,1.0,8.0,8.0
+2024-02-19,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-02-01,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-01-12,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-02-16,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-01-23,Farmacia Sur,Salbutamol,3.0,8.0,24.0
+2024-01-06,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-13,Farmacia Norte,Amoxicilina,3.0,7.0,21.0
+2024-02-20,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-02-25,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-05,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-01-28,Farmacia Norte,Loratadina,4.0,4.0,16.0
+2024-02-22,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-01-15,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-17,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-01-10,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-01-14,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-01-09,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-01-31,Farmacia Centro,Aspirina,1.0,2.0,2.0
+2024-01-16,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-16,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-01-02,Farmacia Sur,Loratadina,4.0,4.0,16.0
+2024-01-19,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-21,Farmacia Centro,Amoxicilina,5.0,7.0,35.0
+2024-02-17,Farmacia Sur,Amoxicilina,4.0,7.0,28.0
+Invalid_Date,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-20,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-01-05,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-31,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-09,Farmacia Norte,Omeprazol,,5.0,15.0
+2024-02-23,Farmacia Norte,Vitamina C,4.0,1.5,6.0
+2024-02-15,Farmacia Centro,Salbutamol,4.0,8.0,
+2024-01-19,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-02-11,Farmacia Sur,Salbutamol,1.0,8.0,
+2024-01-01,Farmacia Centro,Aspirina,4.0,2.0,8.0
+2024-02-25,Farmacia Norte,Amoxicilina,3.0,7.0,21.0
+2024-02-23,Farmacia Norte,Paracetamol,4.0,2.5,10.0
+2024-02-03,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-01-09,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-01-16,Farmacia Centro,Aspirina,4.0,2.0,8.0
+2024-01-01,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-02-12,Farmacia Centro,Vitamina C,5.0,1.5,7.5
+2024-01-27,Farmacia Norte,Salbutamol,3.0,8.0,24.0
+2024-01-02,Farmacia Centro,Salbutamol,5.0,8.0,40.0
+2024-02-08,Farmacia Sur,Salbutamol,3.0,8.0,24.0
+2024-02-16,Farmacia Sur,Loratadina,4.0,4.0,16.0
+2024-02-16,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-02-24,Farmacia Sur,Loratadina,3.0,4.0,12.0
+2024-01-22,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-02-25,Farmacia Sur,Vitamina C,4.0,1.5,6.0
+2024-02-17,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-02-05,Farmacia Centro,Omeprazol,3.0,5.0,15.0
+2024-02-15,Farmacia Norte,Ibuprofeno,4.0,3.0,12.0
+2024-01-29,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-02-18,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-02-16,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-02-01,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-12,Farmacia Sur,Salbutamol,3.0,8.0,24.0
+2024-02-23,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-02-21,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-24,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-01-26,Farmacia Norte,Amoxicilina,1.0,7.0,7.0
+2024-02-21,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-02-24,Farmacia Norte,Amoxicilina,2.0,7.0,14.0
+2024-01-04,Farmacia Centro,Omeprazol,5.0,5.0,25.0
+2024-02-11,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-02-16,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-25,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-02-13,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-02-12,Farmacia Norte,Ibuprofeno,4.0,3.0,12.0
+2024-02-15,Farmacia Sur,Aspirina,5.0,2.0,10.0
+2024-02-01,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-02-27,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-02-04,Farmacia Centro,,,7.0,35.0
+2024-02-10,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-01-20,Farmacia Sur,Loratadina,4.0,4.0,16.0
+2024-02-25,Farmacia Centro,Omeprazol,3.0,5.0,15.0
+2024-02-07,Farmacia Norte,Loratadina,4.0,4.0,16.0
+2024-02-29,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-01-25,Farmacia Norte,Vitamina C,3.0,1.5,4.5
+2024-01-26,Farmacia Sur,Ibuprofeno,4.0,3.0,12.0
+2024-02-21,Farmacia Sur,Paracetamol,2.0,2.5,5.0
+2024-02-02,Farmacia Norte,Paracetamol,3.0,2.5,7.5
+2024-02-02,Farmacia Centro,Omeprazol,3.0,5.0,15.0
+2024-01-23,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-02,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-26,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-01-19,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-01-22,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-02-04,Farmacia Norte,Vitamina C,4.0,1.5,6.0
+2024-01-18,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-01-11,Farmacia Sur,Vitamina C,2.0,1.5,3.0
+2024-01-06,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-09,Farmacia Sur,Vitamina C,2.0,1.5,3.0
+2024-01-19,Farmacia Centro,Amoxicilina,1.0,7.0,7.0
+2024-01-12,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-26,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-02-06,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-01-16,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-02-26,Farmacia Centro,Loratadina,4.0,4.0,16.0
+2024-01-11,Farmacia Centro,Ibuprofeno,2.0,3.0,6.0
+2024-02-10,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-01-08,Farmacia Norte,Paracetamol,3.0,2.5,7.5
+2024-02-22,Farmacia Norte,Salbutamol,3.0,8.0,24.0
+2024-01-17,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-01-06,Farmacia Sur,Loratadina,1.0,4.0,4.0
+2024-02-25,Farmacia Norte,Aspirina,9999.0,2.0,4.0
+2024-01-07,Farmacia Norte,Vitamina C,3.0,1.5,4.5
+2024-01-03,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-01-03,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-02-12,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-01-21,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-02-13,Farmacia Centro,Omeprazol,4.0,5.0,20.0
+2024-02-20,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-01-02,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-01-16,Farmacia Norte,Loratadina,4.0,4.0,16.0
+2024-02-21,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-01-21,Farmacia Sur,Salbutamol,3.0,8.0,24.0
+2024-02-01,Farmacia Centro,Aspirina,1.0,2.0,2.0
+2024-02-15,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-01-20,Farmacia Norte,Ibuprofeno,4.0,3.0,12.0
+2024-01-14,Farmacia Centro,Salbutamol,5.0,8.0,40.0
+2024-02-17,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-02-17,Farmacia Centro,Paracetamol,4.0,2.5,10.0
+2024-01-06,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-02-02,Farmacia Sur,Aspirina,2.0,2.0,4.0
+2024-01-07,Farmacia Sur,Omeprazol,1.0,5.0,5.0
+2024-01-06,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-01-25,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-01-04,Farmacia Norte,Vitamina C,1.0,1.5,1.5
+2024-02-03,Farmacia Centro,Omeprazol,3.0,5.0,15.0
+2024-01-30,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-02-01,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-02-29,Farmacia Centro,Salbutamol,3.0,8.0,24.0
+2024-01-07,Farmacia Sur,Ibuprofeno,2.0,3.0,6.0
+2024-02-04,Farmacia Centro,Aspirina,4.0,2.0,8.0
+2024-02-12,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-02-20,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-01-02,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-01-01,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-02-23,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-01-01,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-01-10,Farmacia Centro,Vitamina C,5.0,1.5,7.5
+2024-01-08,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-02-23,Farmacia Centro,Omeprazol,2.0,5.0,10.0
+2024-01-03,Farmacia Centro,Amoxicilina,1.0,7.0,7.0
+2024-01-18,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-01-18,Farmacia Norte,Vitamina C,3.0,1.5,4.5
+2024-01-28,Farmacia Sur,Vitamina C,,1.5,7.5
+2024-02-09,Farmacia Norte,Amoxicilina,3.0,7.0,21.0
+2024-01-20,Farmacia Centro,Aspirina,3.0,2.0,6.0
+2024-02-03,Farmacia Centro,Amoxicilina,1.0,7.0,7.0
+2024-01-07,Farmacia Centro,Loratadina,2.0,4.0,8.0
+2024-02-22,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-25,Farmacia Sur,Ibuprofeno,4.0,3.0,12.0
+2024-02-13,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-07,Farmacia Norte,Amoxicilina,2.0,7.0,14.0
+2024-01-11,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-01-23,Farmacia Norte,Omeprazol,4.0,5.0,20.0
+2024-01-09,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-01-17,Farmacia Sur,,2.0,5.0,10.0
+2024-01-02,Farmacia Centro,Vitamina C,5.0,1.5,7.5
+2024-02-13,Farmacia Sur,Vitamina C,3.0,1.5,4.5
+2024-01-11,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+2024-01-25,Farmacia Norte,Salbutamol,4.0,8.0,32.0
+2024-02-18,Farmacia Norte,Omeprazol,3.0,5.0,15.0
+2024-01-02,Farmacia Norte,Amoxicilina,2.0,7.0,14.0
+2024-01-13,Farmacia Norte,Salbutamol,3.0,8.0,24.0
+2024-01-07,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-01-11,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-02-16,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-12,Farmacia Centro,Vitamina C,3.0,1.5,4.5
+2024-01-29,Farmacia Centro,Paracetamol,1.0,2.5,2.5
+2024-02-01,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-11,Farmacia Sur,Omeprazol,2.0,5.0,10.0
+2024-02-24,Farmacia Norte,Salbutamol,2.0,8.0,16.0
+2024-01-03,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-01-22,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-03-01,Farmacia Centro,Loratadina,2.0,4.0,8.0
+2024-01-14,Farmacia Centro,Amoxicilina,1.0,7.0,7.0
+2024-02-09,Farmacia Norte,Loratadina,4.0,4.0,16.0
+2024-02-25,Farmacia Centro,Amoxicilina,2.0,7.0,14.0
+2024-01-02,Farmacia Sur,Vitamina C,4.0,1.5,6.0
+2024-01-08,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-01-06,Farmacia Norte,Amoxicilina,5.0,7.0,35.0
+2024-02-08,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-02-01,Farmacia Sur,Loratadina,,4.0,12.0
+2024-02-14,Farmacia Norte,Paracetamol,3.0,2.5,7.5
+2024-01-10,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-30,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-02-23,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-02-15,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-01-24,Farmacia Norte,Vitamina C,4.0,1.5,6.0
+2024-02-22,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-01-28,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-07,Farmacia Norte,Ibuprofeno,3.0,3.0,9.0
+2024-01-14,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-02-08,Farmacia Sur,Loratadina,5.0,4.0,20.0
+2024-02-19,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-04,Farmacia Sur,Amoxicilina,5.0,7.0,35.0
+2024-02-24,Farmacia Norte,Paracetamol,4.0,2.5,10.0
+2024-02-13,Farmacia Centro,Vitamina C,2.0,1.5,3.0
+2024-01-13,Farmacia Centro,Paracetamol,4.0,2.5,10.0
+2024-02-24,Farmacia Centro,Omeprazol,2.0,5.0,10.0
+2024-01-26,Farmacia Centro,Omeprazol,5.0,5.0,25.0
+2024-02-08,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-21,Farmacia Centro,Vitamina C,1.0,1.5,1.5
+2024-01-15,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-02-22,Farmacia Norte,Loratadina,1.0,4.0,4.0
+2024-02-06,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-01-21,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-18,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-24,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-01-05,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-15,Farmacia Centro,,4.0,7.0,28.0
+2024-02-19,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-01-25,Farmacia Centro,Salbutamol,5.0,8.0,40.0
+2024-02-04,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-21,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-01-29,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-02-08,Farmacia Sur,Loratadina,3.0,4.0,12.0
+2024-01-17,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-02-11,Farmacia Sur,,4.0,7.0,28.0
+2024-01-08,Farmacia Norte,Omeprazol,2.0,5.0,10.0
+2024-02-07,Farmacia Centro,Amoxicilina,2.0,7.0,14.0
+2024-01-11,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-01,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-02-29,Farmacia Norte,Ibuprofeno,3.0,3.0,9.0
+2024-02-27,Farmacia Norte,Vitamina C,1.0,1.5,1.5
+2024-02-19,Farmacia Centro,Omeprazol,1.0,5.0,5.0
+2024-02-12,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-02-01,Farmacia Sur,Ibuprofeno,3.0,3.0,9.0
+2024-02-06,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-01-31,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-26,Farmacia Norte,Omeprazol,2.0,5.0,10.0
+2024-02-03,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-24,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-27,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-02-03,Farmacia Sur,Loratadina,2.0,4.0,8.0
+2024-01-25,Farmacia Norte,Ibuprofeno,3.0,3.0,9.0
+2024-02-24,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-01-11,Farmacia Norte,Loratadina,5.0,4.0,20.0
+2024-01-07,Farmacia Norte,Ibuprofeno,2.0,3.0,6.0
+2024-01-31,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-02-10,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-22,Farmacia Sur,Salbutamol,1.0,8.0,8.0
+2024-01-05,Farmacia Norte,Amoxicilina,,7.0,7.0
+2024-02-16,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-02,Farmacia Centro,Omeprazol,2.0,5.0,10.0
+2024-02-03,Farmacia Norte,Salbutamol,5.0,8.0,40.0
+Invalid_Date,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-02-07,Farmacia Centro,Paracetamol,5.0,2.5,12.5
+2024-02-13,Farmacia Centro,Amoxicilina,1.0,7.0,7.0
+2024-01-25,Farmacia Sur,Aspirina,3.0,2.0,6.0
+2024-01-27,Farmacia Centro,Paracetamol,2.0,2.5,5.0
+2024-02-19,Farmacia Centro,Ibuprofeno,2.0,3.0,6.0
+2024-02-13,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-02-13,Farmacia Sur,Vitamina C,2.0,1.5,3.0
+2024-02-23,Farmacia Centro,Salbutamol,1.0,8.0,8.0
+2024-01-07,Farmacia Norte,Amoxicilina,2.0,7.0,14.0
+2024-02-13,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-01-07,Farmacia Norte,Salbutamol,,8.0,16.0
+2024-02-07,Farmacia Sur,Salbutamol,5.0,8.0,40.0
+2024-02-27,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-02-01,Farmacia Centro,Salbutamol,4.0,8.0,32.0
+2024-02-10,Farmacia Centro,Loratadina,2.0,4.0,8.0
+2024-01-25,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-01-10,Farmacia Sur,Loratadina,4.0,4.0,16.0
+2024-02-09,Farmacia Centro,Omeprazol,5.0,5.0,25.0
+2024-01-06,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-23,Farmacia Norte,Paracetamol,5.0,2.5,12.5
+2024-01-26,Farmacia Sur,Ibuprofeno,1.0,3.0,3.0
+2024-01-30,Farmacia Centro,Aspirina,1.0,2.0,2.0
+2024-02-02,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-01-21,Farmacia Centro,,1.0,5.0,5.0
+2024-01-09,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-01-13,Farmacia Norte,,5.0,2.0,10.0
+2024-02-01,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-02-09,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-02-06,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-01-27,Farmacia Norte,Salbutamol,3.0,8.0,
+2024-02-22,Farmacia Norte,Ibuprofeno,1.0,3.0,3.0
+2024-01-28,Farmacia Sur,Aspirina,1.0,2.0,2.0
+2024-01-09,Farmacia Centro,Amoxicilina,2.0,7.0,14.0
+2024-01-22,Farmacia Norte,Aspirina,,2.0,6.0
+2024-02-29,Farmacia Sur,Aspirina,4.0,2.0,8.0
+2024-01-09,Farmacia Sur,Ibuprofeno,5.0,3.0,15.0
+2024-01-07,Farmacia Sur,Vitamina C,2.0,1.5,3.0
+2024-02-15,Farmacia Norte,Salbutamol,3.0,8.0,24.0
+2024-01-10,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-01-02,Farmacia Sur,Salbutamol,5.0,8.0,40.0
+2024-01-10,Farmacia Sur,Amoxicilina,5.0,7.0,35.0
+2024-01-13,Farmacia Norte,Loratadina,2.0,4.0,8.0
+2024-01-02,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+Invalid_Date,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-31,Farmacia Norte,Omeprazol,5.0,5.0,25.0
+2024-01-17,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-02-03,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-04,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-02-06,Farmacia Sur,Omeprazol,3.0,5.0,15.0
+2024-01-23,Farmacia Sur,Omeprazol,5.0,5.0,25.0
+2024-01-27,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-13,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-01-28,Farmacia Centro,Salbutamol,5.0,8.0,40.0
+2024-02-15,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-31,Farmacia Sur,Vitamina C,1.0,1.5,1.5
+2024-02-17,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-02-18,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-01-09,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-01-29,Farmacia Centro,Vitamina C,5.0,1.5,7.5
+2024-02-01,Farmacia Norte,Paracetamol,4.0,2.5,10.0
+2024-01-03,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-02-02,Farmacia Norte,Amoxicilina,2.0,7.0,14.0
+2024-01-08,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-01-11,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-02-13,Farmacia Norte,Paracetamol,3.0,2.5,7.5
+2024-02-15,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-02-10,Farmacia Norte,Aspirina,3.0,2.0,6.0
+2024-02-28,Farmacia Norte,Salbutamol,1.0,8.0,8.0
+2024-01-13,Farmacia Sur,Salbutamol,3.0,8.0,24.0
+2024-02-16,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-02-10,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-02-06,Farmacia Norte,Vitamina C,3.0,1.5,4.5
+2024-01-16,Farmacia Sur,Omeprazol,5.0,5.0,25.0
+2024-02-18,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-01-17,Farmacia Centro,Amoxicilina,4.0,7.0,28.0
+2024-01-07,Farmacia Sur,Omeprazol,4.0,5.0,20.0
+2024-01-02,Farmacia Sur,Vitamina C,4.0,1.5,6.0
+2024-01-01,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-01-27,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-02-01,Farmacia Centro,Ibuprofeno,5.0,3.0,15.0
+2024-01-08,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-02-05,Farmacia Norte,Loratadina,3.0,4.0,12.0
+2024-01-22,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-19,Farmacia Norte,Aspirina,4.0,2.0,8.0
+2024-01-23,Farmacia Sur,Ibuprofeno,2.0,3.0,6.0
+2024-01-02,Farmacia Centro,Omeprazol,2.0,5.0,10.0
+2024-01-19,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-01-17,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-02-26,Farmacia Centro,Ibuprofeno,4.0,3.0,12.0
+2024-02-16,Farmacia Norte,Aspirina,2.0,2.0,4.0
+2024-01-24,Farmacia Norte,Ibuprofeno,5.0,3.0,15.0
+2024-02-08,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-01-20,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-02-07,Farmacia Centro,Aspirina,3.0,2.0,6.0
+2024-02-27,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-02-19,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-02-12,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-01-25,Farmacia Norte,Amoxicilina,4.0,7.0,28.0
+2024-01-18,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-02-16,Farmacia Centro,Aspirina,4.0,2.0,8.0
+2024-01-28,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-01-27,Farmacia Norte,Vitamina C,5.0,1.5,7.5
+2024-02-06,Farmacia Sur,Aspirina,,2.0,2.0
+2024-01-26,Farmacia Norte,Vitamina C,2.0,1.5,3.0
+2024-01-16,Farmacia Sur,Salbutamol,5.0,8.0,40.0
+2024-02-26,Farmacia Sur,Vitamina C,5.0,1.5,7.5
+2024-01-18,Farmacia Sur,Vitamina C,,1.5,7.5
+2024-02-18,Farmacia Norte,Omeprazol,1.0,5.0,5.0
+2024-02-15,Farmacia Norte,Paracetamol,1.0,2.5,2.5
+2024-01-20,Farmacia Sur,Amoxicilina,1.0,7.0,7.0
+2024-01-25,Farmacia Centro,Loratadina,3.0,4.0,12.0
+2024-01-24,Farmacia Sur,Amoxicilina,3.0,7.0,21.0
+2024-02-24,Farmacia Centro,Ibuprofeno,1.0,3.0,3.0
+2024-01-24,Farmacia Centro,Ibuprofeno,2.0,3.0,6.0
+2024-01-20,Farmacia Norte,Ibuprofeno,3.0,3.0,9.0
+2024-02-05,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-01-07,Farmacia Centro,Paracetamol,3.0,2.5,7.5
+2024-02-10,Farmacia Sur,Salbutamol,2.0,8.0,16.0
+2024-01-08,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
+2024-02-20,Farmacia Norte,Aspirina,4.0,2.0,8.0
+2024-02-20,Farmacia Norte,Omeprazol,2.0,5.0,10.0
+2024-01-31,Farmacia Centro,Amoxicilina,3.0,7.0,21.0
+2024-02-19,Farmacia Norte,Ibuprofeno,3.0,3.0,9.0
+2024-01-02,Farmacia Centro,Vitamina C,4.0,1.5,6.0
+2024-02-12,Farmacia Norte,Paracetamol,2.0,2.5,5.0
+2024-02-10,Farmacia Sur,Ibuprofeno,2.0,3.0,6.0
+Invalid_Date,Farmacia Sur,Amoxicilina,2.0,7.0,14.0
+2024-02-29,Farmacia Centro,Salbutamol,2.0,8.0,16.0
+2024-02-04,Farmacia Norte,Paracetamol,5.0,2.5,12.5
+2024-02-28,Farmacia Norte,Aspirina,5.0,2.0,10.0
+2024-01-20,Farmacia Sur,Paracetamol,4.0,2.5,10.0
+2024-02-21,Farmacia Sur,Paracetamol,5.0,2.5,12.5
+2024-01-18,Farmacia Centro,Aspirina,2.0,2.0,4.0
+2024-02-26,Farmacia Norte,Paracetamol,5.0,2.5,12.5
+2024-01-04,Farmacia Norte,Vitamina C,1.0,1.5,1.5
+2024-02-02,Farmacia Centro,Aspirina,5.0,2.0,10.0
+2024-03-01,Farmacia Sur,Paracetamol,1.0,2.5,2.5
+2024-01-15,Farmacia Centro,Ibuprofeno,3.0,3.0,9.0
